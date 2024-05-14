@@ -2,4 +2,4 @@ Data's true power is its ability to definitively answer questions. So, let's tak
 
 Now, we know what you may be thinking: “That’s obvious. It gets hotter.” But, if pressed for more information, how would you prove that?
 
-Refer to Weather and City on main page for final codes
+Refer to Weather and City on main page for final codes.
